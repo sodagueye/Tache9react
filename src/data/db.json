@@ -1,0 +1,18 @@
+{
+    "blogs":[
+        {
+            "title":"My First blog",
+            "body":"lorem lorem lorem lorem",
+            "author":"mario",
+            "id":1
+        },
+        {
+            "title":"My First2 blog",
+            "body":"lorem lorem lorem lorem",
+            "author":"mario",
+            "id":2
+        }
+
+        
+    ]
+}
